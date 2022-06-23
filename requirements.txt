@@ -1,0 +1,13 @@
+-f https://download.pytorch.org/whl/torch_stable.html
+HTML4Vision==0.4.3
+matplotlib==3.5.2
+numpy==1.21.4
+opencv-python==4.6.0.66
+pandas==1.3.4
+scipy==1.7.2
+torch==1.10.1+cpu
+torchvision==0.11.2+cpu
+Pillow
+tensorflow-cpu == 2.9.1
+waitress
+flask
